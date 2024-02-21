@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chxx/test-npm/issues"
   },
+  "publishConfig": {
+    "@chxx:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/chxx/test-npm#readme"
 }
